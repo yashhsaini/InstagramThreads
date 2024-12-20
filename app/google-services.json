@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494507669918",
+    "project_id": "threadsig-92ec4",
+    "storage_bucket": "threadsig-92ec4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494507669918:android:a2055b8a1ae6a57a437e8f",
+        "android_client_info": {
+          "package_name": "com.example.instagramthreads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtLeH6pjNVAQhovdoVpvMjVrvRjzuS3gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
